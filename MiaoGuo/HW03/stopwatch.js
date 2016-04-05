@@ -25,7 +25,6 @@ var	stopWatch = function() {
 		this.reset = function() {
 			stopTime = 0;
 			startTime = 0;
-			running = false;
 		};
 
 		// Duration
